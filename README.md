@@ -1,5 +1,5 @@
 
-![imagem_entrada](logo_leonardo.png)
+![imagem_entrada](logo.png)
 
 <br>
 
