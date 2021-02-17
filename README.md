@@ -6,7 +6,9 @@
 
 <br>
 
-Hello! I am Leonardo, biologist and math student.
+Hello! I'm Leonardo, biologist and math student. Passionate self-taught R developer from Brazil.
+
+<br>
 
 <p align="center">
 
