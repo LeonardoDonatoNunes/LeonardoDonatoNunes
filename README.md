@@ -13,5 +13,5 @@
 <!--
 **LeonardoDonatoNunes/LeonardoDonatoNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=LeonardoDonatoNunes&layout=compact&theme=synthwave&show_icons=true)](https://github.com/LeonardoDonatoNunes/github-readme-stats)
+[!Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoDonatoNunes)](https://github.com/LeonardoDonatoNunes/github-readme-stats)
 
