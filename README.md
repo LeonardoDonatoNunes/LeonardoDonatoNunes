@@ -20,7 +20,7 @@ Hello! I'm Leonardo, biologist and math student. Passionate self-taught R develo
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LeonardoDonatoNunes&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LeonardoDonatoNunes&show_icons=false&include_all_commits=true&theme=chartreuse-dark" alt="Anurag's github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
