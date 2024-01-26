@@ -12,6 +12,8 @@ Na lista abaixo estão relacionados alguns dos meus principais projetos, que ref
 * [reconhecimentoFacialDeepFace](https://github.com/LeonardoDonatoNunes/reconhecimentoFacialDeepFace) - Este é um projeto em Python de reconhecimento facial para testar a biblioteca __DeepFace__.
 
 
+<br>
+
 <p align="center">
 
 [![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://m-clark.github.io/)](https://leonardodonatonunes.github.io/ds/) 
