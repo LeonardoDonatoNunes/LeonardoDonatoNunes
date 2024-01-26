@@ -4,7 +4,7 @@ Olá, eu sou Leonardo! Especialista em ciência de dados, Biólogo e estudante d
 
 Seguem alguns dos meus principais projetos, que refletem meus interesses como cientista de dados:
 
-[LeonardoDonatoNunes/reconhecimentoFacialDeepFace](LeonardoDonatoNunes/reconhecimentoFacialDeepFace)
+[reconhecimentoFacialDeepFace](https://github.com/LeonardoDonatoNunes/reconhecimentoFacialDeepFace) - Este é um projeto de reconhecimento facial para testar a biblioteca __DeepFace__.
 
 
 <p align="center">
