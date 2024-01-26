@@ -1,14 +1,11 @@
 
-<img src="https://github.com/LeonardoDonatoNunes/ds/blob/f1b09fd246b01a981cc5aa31759b09ba19a1a5ba/_posts/2021-03-05-imagementrada/imagementrada_files/figure-html5/figura_entrada_post-1.png" alt="Neotropical Consultoria Ambiental" width = "800"> 
-
-<br>
+Olá, eu sou Leonardo! Especialista em ciência de dados, Biólogo e estudante de Matemática. Meu interesse por análise de dados e números começou com os projetos desenvolvidos durante minha carreira como biólogo e tenho ido cada vez mais fundo em busca de conhecimentos em matemática, estatística, ciência de dados e desenvolvimento. 
 
 
-<br>
+Seguem alguns dos meus principais projetos, que refletem meus interesses como cientista de dados:
 
-Hello! I'm Leonardo, biologist and math student. Passionate self-taught R developer from Brazil.
+[LeonardoDonatoNunes/reconhecimentoFacialDeepFace](LeonardoDonatoNunes/reconhecimentoFacialDeepFace)
 
-<br>
 
 <p align="center">
 
