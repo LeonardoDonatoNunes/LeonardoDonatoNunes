@@ -14,6 +14,8 @@ Na lista abaixo estão relacionados alguns dos meus principais projetos, que ref
 
 <br>
 
+# Minhas métricas no GitHub
+
 <p align="center">
 
 [![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://m-clark.github.io/)](https://leonardodonatonunes.github.io/ds/) 
