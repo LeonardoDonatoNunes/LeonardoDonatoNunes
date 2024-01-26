@@ -7,8 +7,7 @@ Olá, eu sou Leonardo! Especialista em ciência de dados, Biólogo e estudante d
 
 Na lista abaixo estão relacionados alguns dos meus principais projetos, que refletem meus interesses como cientista de dados.
 
-* [DistanciaHidrica](https://github.com/LeonardoDonatoNunes/DistanciaHidrica) - É um projeto em R que desenvolvi no tempo de biólogo para medir distancias entre dois pontos em um rio (Desafiador! Considerando que não poder utilizar uma linha reta!).
-
+* [DistanciaHidrica](https://github.com/LeonardoDonatoNunes/DistanciaHidrica) - É um projeto em R que desenvolvi no tempo de biólogo para medir distancias entre dois pontos em um rio (Desafiador! Considerando que não poder utilizar uma linha reta!). O projeto é simples, mas ajudou muito a calcular distâncias em um projeto que trabalhei para avaliar migração de peixes. Acesse essa [documentação](https://leonardodonatonunes.github.io/ds/posts/2021-03-05-menodistancia/) para uma explicação de como isso é feito.
 * [PeixesMarcados_Shiny](https://github.com/LeonardoDonatoNunes/PeixesMarcados_Shiny) - Desenvolvi essa aplicação a muito tempo atrás, hoje já trabalhei muito mais com Shiny e desenvolvimento de aplicações web, pra mim é uma paixão e tenho vontade de desenvolver aplicações para tudo. Acho esse projeto relevante porque foi o primeiro que desenvolvi para usar como exemplo e é um histórico de como comecei a desenvolver Shiny.
 
 * [reconhecimentoFacialDeepFace](https://github.com/LeonardoDonatoNunes/reconhecimentoFacialDeepFace) - Este é um projeto em Python de reconhecimento facial para testar a biblioteca __DeepFace__.
