@@ -5,6 +5,7 @@ Olá, eu sou Leonardo! Especialista em ciência de dados, Biólogo e estudante d
 Seguem alguns dos meus principais projetos, que refletem meus interesses como cientista de dados:
 
 [DistanciaHidrica](https://github.com/LeonardoDonatoNunes/DistanciaHidrica) - É um projeto em R que desenvolvi no tempo de biólogo para medir distancias entre dois pontos em um rio (Desafiador! Considerando que não poder utilizar uma linha reta!).
+
 [reconhecimentoFacialDeepFace](https://github.com/LeonardoDonatoNunes/reconhecimentoFacialDeepFace) - Este é um projeto em Python de reconhecimento facial para testar a biblioteca __DeepFace__.
 
 
