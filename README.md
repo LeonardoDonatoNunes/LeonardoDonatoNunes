@@ -1,6 +1,6 @@
 ## Apresentação
 
-Olá, eu sou Leonardo! Especialista em ciência de dados, Biólogo e estudante de Matemática. Meu interesse por análise de dados e números começou com os projetos desenvolvidos durante minha carreira como biólogo e tenho ido cada vez mais fundo em busca de conhecimentos em matemática, estatística, ciência de dados e programação. Tenho muita experiência com ETL de dados, análises exploratórias e estatísticas, principalmente modelos lineares. Minha linguagem "nativa" em dados é R, que foi por onde comecei em 2014, mas hoje estou trabalhando bastante com Python. 
+Olá, eu sou Leonardo! Especialista em ciência de dados, Biólogo e estudante de Matemática. Meu interesse por análise de dados e números começou com os projetos desenvolvidos durante minha carreira como biólogo. Tenho ido cada vez mais fundo em busca de conhecimentos em matemática, estatística, ciência de dados e programação. Tenho muita experiência com ETL de dados, análises exploratórias, visualização de dados e estatísticas, principalmente modelos lineares. Minha linguagem "nativa" em dados é R, que foi por onde comecei em 2014, mas hoje estou trabalhando bastante com Python. Tenho especial interesse por analise de dados ambientais, e do merado financeiro, mas sempre quero analisar e explorar tudo que está ao meu alcance.
 
 
 ## Projetos de destaque (em construção 🛠️)
@@ -14,7 +14,7 @@ Na lista abaixo estão relacionados alguns dos meus principais projetos, que ref
 
 <br>
 
-# Minhas métricas no GitHub
+## Minhas métricas no GitHub
 
 <p align="center">
 
