@@ -9,6 +9,8 @@ Na lista abaixo estão relacionados alguns dos meus principais projetos, que ref
 
 * [DistanciaHidrica](https://github.com/LeonardoDonatoNunes/DistanciaHidrica) - É um projeto em R que desenvolvi no tempo de biólogo para medir distancias entre dois pontos em um rio (Desafiador! Considerando que não poder utilizar uma linha reta!).
 
+* [PeixesMarcados_Shiny](https://github.com/LeonardoDonatoNunes/PeixesMarcados_Shiny) - Desenvolvi essa aplicação a muito tempo atrás, hoje já trabalhei muito mais com Shiny e desenvolvimento de aplicações web, pra mim é uma paixão e tenho vontade de desenvolver aplicações para tudo. Acho esse projeto relevante porque foi o primeiro que desenvolvi para usar como exemplo e é um histórico de como comecei a desenvolver Shiny.
+
 * [reconhecimentoFacialDeepFace](https://github.com/LeonardoDonatoNunes/reconhecimentoFacialDeepFace) - Este é um projeto em Python de reconhecimento facial para testar a biblioteca __DeepFace__.
 
 
