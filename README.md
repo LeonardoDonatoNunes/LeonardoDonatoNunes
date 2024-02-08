@@ -11,13 +11,3 @@ Na lista abaixo estão relacionados alguns dos meus principais projetos, que ref
 * [PeixesMarcados_Shiny](https://github.com/LeonardoDonatoNunes/PeixesMarcados_Shiny) - Desenvolvi essa aplicação a muito tempo atrás, hoje já trabalhei muito mais com Shiny e desenvolvimento de aplicações web, pra mim é uma paixão e tenho vontade de desenvolver aplicações para tudo. Acho esse projeto relevante porque foi o primeiro que desenvolvi para usar como exemplo e é um histórico de como comecei a desenvolver Shiny.
 
 * [reconhecimentoFacialDeepFace](https://github.com/LeonardoDonatoNunes/reconhecimentoFacialDeepFace) - Este é um projeto em Python de reconhecimento facial para testar a biblioteca __DeepFace__.
-
-
-<br>
-
-[![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/michael-clark-b475b5170/)](https://www.linkedin.com/in/leonardo-donato-nunes-754aa5b8/) 
-
-
-<!--
-**LeonardoDonatoNunes/LeonardoDonatoNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
